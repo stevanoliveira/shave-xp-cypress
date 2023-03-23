@@ -18,6 +18,7 @@
   "author": "Stevan Oliveira",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.7.0"
+    "cypress": "^12.7.0",
+    "pg": "^8.10.0"
   }
 }
